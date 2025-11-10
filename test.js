@@ -1,0 +1,1 @@
+fetch (`https://api.openweathermap.org/data/2.5/weather?q=karachi&appid=16ced74979d45b7a53cf26fde70c26e1&units=metric`)
